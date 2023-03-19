@@ -1,41 +1,20 @@
-class CQueue 
+class Solution 
 {
-private:
-    std::stack<int> stack1;
-    std::stack<int> stack2;
 public:
-    CQueue() 
-    {}
-    
-    void appendTail(int value)
+    int findRepeatNumber(vector<int>& nums) 
     {
-        stack1.push(value);
-    }
-    
-    int deleteHead() 
-    {
-        if(stack1.empty()&&stack2.empty())
+        int count=0;
+        std::unordered_map<int,int> countMap;
+        std::vector<int>::iterator ptr=nums.begin();
+        while(ptr!=nums.end())
         {
-            return -1;
-        }
-        if(stack2.empty())
-        {
-            while(!stack1.empty())
+            count=++countMap[*ptr];
+            if(count>1)
             {
-                int head=stack1.top();
-                stack2.push(head);
-                stack1.pop();
+                return *ptr;
             }
+            ptr++;
         }
-        int value=stack2.top();
-        stack2.pop();
-        return value;
+        return -1;
     }
 };
-
-/**
- * Your CQueue object will be instantiated and called as such:
- * CQueue* obj = new CQueue();
- * obj->appendTail(value);
- * int param_2 = obj->deleteHead();
- */usr
