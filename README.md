@@ -7,7 +7,8 @@
 5 [字符串中第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/387.md)    
 6 [找不同](https://leetcode.cn/problems/find-the-difference/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/389.md)   
 7 [赎金信](https://leetcode.cn/problems/ransom-note/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/383.md)   
-8 [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/242.md)
+8 [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/242.md)    
+9 [无重复字符的最长字串](leetcode.cn/problems/longest-substring-without-repeating-characters/):point_right:[题解]()
 ## 动态规划
 1 [不同路径](https://leetcode.cn/problems/unique-paths/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/62.md)   
 2 [不同路径2](https://leetcode.cn/problems/unique-paths-ii/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/63.md)    
