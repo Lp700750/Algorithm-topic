@@ -1,5 +1,5 @@
 ## 方法1
-```
+```c++
 class Solution 
 {
 public:
@@ -34,7 +34,7 @@ public:
 };
 ```
 ## 方法2
-```
+```c++
 class Solution 
 {
 public:
