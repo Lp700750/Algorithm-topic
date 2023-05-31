@@ -12,7 +12,7 @@
 ## 数组
 1 [数组中的第K个最大的元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/215.md):zap:
 ## 链表
-1 [反转链表](https://leetcode.cn/problems/reverse-linked-list/solution/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/206.md):zap:
+1 [反转链表](https://leetcode.cn/problems/reverse-linked-list/solution/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/206.md):zap:   2 [K个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/25.md):zap:
 ## 动态规划
 1 [不同路径](https://leetcode.cn/problems/unique-paths/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/62.md)   
 2 [不同路径2](https://leetcode.cn/problems/unique-paths-ii/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/63.md)    
