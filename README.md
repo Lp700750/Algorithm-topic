@@ -10,7 +10,8 @@
 8 [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/242.md)    
 9 [无重复字符的最长字串](leetcode.cn/problems/longest-substring-without-repeating-characters/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/3.md)
 ## 数组
-1 [数组中的第K个最大的元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/215.md):zap:
+1 [数组中的第K个最大的元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/215.md):zap:   
+2 [三数之和](https://leetcode.cn/problems/3sum/):point_right:[题解]():zap:
 ## 链表
 1 [反转链表](https://leetcode.cn/problems/reverse-linked-list/solution/)  :point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/206.md):zap:                
 2 [K个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/25.md):zap:
