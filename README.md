@@ -25,4 +25,4 @@
 7 [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%9817.16.md)    
 8 [打家劫舍](https://leetcode.cn/problems/house-robber/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/198.md)  
 9 [打家劫舍_1](https://leetcode.cn/problems/house-robber-ii/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/213.md)    
-10 [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/):point_right:[题解]()
+10 [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/740.md)
