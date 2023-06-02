@@ -22,4 +22,5 @@
 4 [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/931.md)    
 5 [最小路径和](https://leetcode.cn/problems/minimum-path-sum/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/64.md)   
 6 [地下城游戏](https://leetcode.cn/problems/dungeon-game/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/174.md)    
-7 [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%9817.16.md)
+7 [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%9817.16.md)    
+8 [打家劫舍](https://leetcode.cn/problems/house-robber/):point_right:[题解](https://github.com/Lp700:point_right:750/LeetCode/blob/master/LeetCode/198.md)    
