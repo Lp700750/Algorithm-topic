@@ -28,4 +28,5 @@
 10 [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/740.md)    
 11 [粉刷房子](https://leetcode.cn/problems/JEj789/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/%E5%89%91%E6%8C%87offer_2%2091.md)   
 12 [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/121.md)    
-13 [买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/309.md)
+13 [买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/309.md)    
+14 [买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/714.md)
