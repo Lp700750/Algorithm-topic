@@ -33,5 +33,5 @@
 15 [买卖股票的最佳时机_2](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/122.md)   
 16 [买卖股票的最佳时机_3](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/123.md)    
 17 [买卖股票的最佳时机_4](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/188.md)   
-18 [最大子数组和](https://leetcode.cn/problems/maximum-subarray/):point_right:[题解]()    
+18 [最大子数组和](https://leetcode.cn/problems/maximum-subarray/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/53.md)    
 19 [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/918.md)
