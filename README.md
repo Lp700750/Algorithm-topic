@@ -38,4 +38,5 @@
 20 [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/152.md)   
 21 [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/1567.md)    
 22 [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/413.md)     
-23 [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/978.md)
+23 [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/978.md)   
+24 [单词拆分](https://leetcode.cn/problems/word-break/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/139.md)
