@@ -1,4 +1,4 @@
-# LeetCode题目与题解对应表
+# 算法题目与题解对应表
 ## 字符串
 1 [反转字符串](https://leetcode.cn/problems/reverse-string/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/344.md)    
 2 [反转字符串2](https://leetcode.cn/problems/reverse-string-ii/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/541.md)    
