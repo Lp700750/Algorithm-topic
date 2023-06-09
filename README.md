@@ -39,4 +39,5 @@
 21 [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/1567.md)    
 22 [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/413.md)     
 23 [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/978.md)   
-24 [单词拆分](https://leetcode.cn/problems/word-break/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/139.md)
+24 [单词拆分](https://leetcode.cn/problems/word-break/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/139.md)    
+25 [环绕字符串中唯一的字符串][https://leetcode.cn/problems/unique-substrings-in-wraparound-string/]:point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/467.md)
