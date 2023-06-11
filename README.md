@@ -42,4 +42,5 @@
 24 [单词拆分](https://leetcode.cn/problems/word-break/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/139.md)    
 25 [环绕字符串中唯一的字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/467.md)   
 26 [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/300.md)    
-27 [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/376.md)
+27 [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/376.md)   
+28 [最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/):point_right:(题解)[https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/673.md]
