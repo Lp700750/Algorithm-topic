@@ -44,4 +44,5 @@
 26 [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/300.md)    
 27 [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/376.md)   
 28 [最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/673.md)     
-29 [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/646.md)
+29 [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/646.md)    
+30 [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/1218.md)
