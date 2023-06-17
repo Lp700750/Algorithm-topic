@@ -17,7 +17,8 @@
 2 [K个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/25.md):zap:    
 3 [链表内指定区间反转](https://www.nowcoder.com/practice/b58434e200a648c589ca2063f1faf58c?tpId=295&tqId=654&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj)👉[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM2.md)    
 4 [合并两个排序的链表](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=295&tqId=23267&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM4.md)    
-5 [合并K个已排序的链表](https://www.nowcoder.com/practice/65cfde9e5b9b4cf2b6bafa5f3ef33fa6?tpId=295&tqId=724&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM5.md)
+5 [合并K个已排序的链表](https://www.nowcoder.com/practice/65cfde9e5b9b4cf2b6bafa5f3ef33fa6?tpId=295&tqId=724&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM5.md)    
+6 [判断链表是否有环](https://www.nowcoder.com/practice/650474f313294468a4ded3ce0f7898b9?tpId=295&tqId=605&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM6.md)
 ## 动态规划
 1  [不同路径](https://leetcode.cn/problems/unique-paths/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/62.md)   
 2  [不同路径2](https://leetcode.cn/problems/unique-paths-ii/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/63.md)    
