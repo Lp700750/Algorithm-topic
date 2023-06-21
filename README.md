@@ -26,7 +26,7 @@
 11 [链表相加](https://www.nowcoder.com/practice/c56f6c70fb3f4849bc56e33ff2a50b6b?tpId=295&tqId=1008772&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj)👉[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM11.md)    
 12 [单链表排序](https://www.nowcoder.com/practice/f23604257af94d939848729b1a5cda08?tpId=295&tqId=1008897&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM12.md)    
 13 [判断一个链表是否是回文结构](https://www.nowcoder.com/practice/3fed228444e740c8be66232ce8b87c2f?tpId=295&tqId=1008769&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM13.md)    
-14 [链表的奇偶重排]():point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM14.md)
+14 [链表的奇偶重排](https://www.nowcoder.com/practice/02bf49ea45cd486daa031614f9bd6fc3?tpId=295&tqId=1073463&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM14.md)
 ## 动态规划
 1  [不同路径](https://leetcode.cn/problems/unique-paths/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/62.md)   
 2  [不同路径2](https://leetcode.cn/problems/unique-paths-ii/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/63.md)    
