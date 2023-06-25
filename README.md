@@ -14,7 +14,8 @@
 2 [三数之和](https://leetcode.cn/problems/3sum/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/15.md):zap:    
 3 [二分法查找](https://www.nowcoder.com/practice/d3df40bd23594118b57554129cadf47b?tpId=295&tqId=1499549&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM17.md)    
 4 [二维数组中的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=295&tqId=23256&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM18.md)    
-5 [寻找峰值](https://www.nowcoder.com/practice/fcf87540c4f347bcb4cf720b5b350c76?tpId=295&tqId=2227748&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM19.md)
+5 [寻找峰值](https://www.nowcoder.com/practice/fcf87540c4f347bcb4cf720b5b350c76?tpId=295&tqId=2227748&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM19.md)    
+6 [旋转数组的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=295&tqId=23269&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM21.md)
 ## 链表
 1 [反转链表](https://leetcode.cn/problems/reverse-linked-list/solution/)  :point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/206.md):zap:                
 2 [K个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/25.md):zap:    
