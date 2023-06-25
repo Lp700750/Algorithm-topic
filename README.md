@@ -16,6 +16,10 @@
 4 [二维数组中的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=295&tqId=23256&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM18.md)    
 5 [寻找峰值](https://www.nowcoder.com/practice/fcf87540c4f347bcb4cf720b5b350c76?tpId=295&tqId=2227748&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM19.md)    
 6 [旋转数组的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=295&tqId=23269&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM21.md)
+## 二叉树
+1 [二叉树的前序遍历](https://www.nowcoder.com/practice/5e2135f4d2b14eb8a5b06fab4c938635?tpId=295&tqId=2291302&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM23.md)    
+2 [二叉树的中序遍历](https://www.nowcoder.com/practice/5e2135f4d2b14eb8a5b06fab4c938635?tpId=295&tqId=2291302&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解]()    
+3 [二叉树的后序遍历](https://www.nowcoder.com/practice/1291064f4d5d4bdeaefbf0dd47d78541?tpId=295&tqId=2291301&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解]()
 ## 链表
 1 [反转链表](https://leetcode.cn/problems/reverse-linked-list/solution/)  :point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/206.md):zap:                
 2 [K个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/25.md):zap:    
