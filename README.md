@@ -100,6 +100,7 @@
 31 [牛牛吃草](https://www.nowcoder.com/practice/f05254f070944ff792c0dfefabd94fec?tpId=347&tqId=2634669&ru=/exam/oj&qru=/ta/vip-algorithm/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AF%2587%26topicId%3D347):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/%E7%89%9B%E7%89%9B%E5%90%83%E8%8D%89.md)    
 32 [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/1143.md)   
 33 [最长公共字串](https://www.nowcoder.com/practice/f33f5adc55f444baa0e0ca87ad8a6aac?tpId=295&tqId=991150&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM66.md)    
-34 [把数字翻译成字符](https://www.nowcoder.com/practice/046a55e6cd274cffb88fc32dba695668?tpId=295&tqId=1024831&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM69.md)
+34 [把数字翻译成字符](https://www.nowcoder.com/practice/046a55e6cd274cffb88fc32dba695668?tpId=295&tqId=1024831&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM69.md)    
+35 [兑换零钱](https://leetcode.cn/problems/coin-change/description/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/322.md)
 ## 递归 搜索 回溯
 1 [汉诺塔](https://leetcode.cn/problems/hanota-lcci/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/08.06.md)
