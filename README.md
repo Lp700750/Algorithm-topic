@@ -73,7 +73,8 @@
 14 [链表的奇偶重排](https://www.nowcoder.com/practice/02bf49ea45cd486daa031614f9bd6fc3?tpId=295&tqId=1073463&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM14.md)    
 15 [删除有序链表当中的重复元素](https://www.nowcoder.com/practice/c087914fae584da886a0091e877f2c79?tpId=295&tqId=664&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM15.md)    
 16 [删除有序链表当中的重复元素_1](https://www.nowcoder.com/practice/71cef9f8b5564579bf7ed93fbe0b2024?tpId=295&tqId=663&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM16.md)    
-17 [链表排序](https://leetcode.cn/problems/sort-list/description/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/148.md)⭐
+17 [链表排序](https://leetcode.cn/problems/sort-list/description/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/148.md)⭐    
+18 [分隔链表](https://leetcode.cn/problems/partition-list/?envType=study-plan-v2&envId=selected-coding-interview):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/86.md)
 ## 动态规划
 1  [不同路径](https://leetcode.cn/problems/unique-paths/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/62.md)   
 2  [不同路径2](https://leetcode.cn/problems/unique-paths-ii/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/63.md)    
