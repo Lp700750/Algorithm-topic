@@ -38,7 +38,8 @@
 25 [旋转数组](https://www.nowcoder.com/practice/e19927a8fd5d477794dac67096862042?tpId=295&tqId=1024689&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM97.md)     
 26 [螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/description/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/54.md)    
 27 [旋转矩阵](https://leetcode.cn/problems/rotate-matrix-lcci/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/01.07.md)    
-28 [字符串解码](https://leetcode.cn/problems/decode-string/description/?envType=study-plan-v2&envId=selected-coding-interview):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/394.md)
+28 [字符串解码](https://leetcode.cn/problems/decode-string/description/?envType=study-plan-v2&envId=selected-coding-interview):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/394.md)    
+29 [数据流当中的中位数](https://leetcode.cn/problems/find-median-from-data-stream/description/?envType=study-plan-v2&envId=selected-coding-interview):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/295.md)
 ## 二叉树
 1 [二叉树的前序遍历](https://www.nowcoder.com/practice/5e2135f4d2b14eb8a5b06fab4c938635?tpId=295&tqId=2291302&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM23.md)    
 2 [二叉树的中序遍历](https://www.nowcoder.com/practice/5e2135f4d2b14eb8a5b06fab4c938635?tpId=295&tqId=2291302&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM24.md)    
