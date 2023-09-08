@@ -60,7 +60,8 @@
 15 [二叉搜索树最近的公共祖先](https://www.nowcoder.com/practice/d9820119321945f588ed6a26f0a6991f?tpId=295&tqId=2290592&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM37.md)    
 16 [二叉树的最近公共祖先](https://www.nowcoder.com/practice/e0cc33a83afe4530bcec46eba3325116?tpId=295&tqId=1024325&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM38.md)    
 17 [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=295&tqId=23282&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM40.md)    
-18 [二叉树当中的bool值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/2331.md)
+18 [二叉树当中的bool值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/2331.md)    
+19 [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/98.md)
 ## 链表
 1 [反转链表](https://leetcode.cn/problems/reverse-linked-list/solution/)  :point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/206.md):zap:                
 2 [K个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/submissions/):point_right:[题解](https://github.com/Lp700750/LeetCode/blob/master/LeetCode/25.md):zap:    
