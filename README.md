@@ -120,3 +120,5 @@
 35 [兑换零钱](https://leetcode.cn/problems/coin-change/description/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/322.md)
 ## 递归 搜索 回溯
 1 [汉诺塔](https://leetcode.cn/problems/hanota-lcci/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/08.06.md)
+## 其他
+1.[验证IP和转圈圈减人](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/01.md)
