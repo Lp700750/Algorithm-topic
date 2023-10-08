@@ -124,7 +124,8 @@
 32 [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/1143.md)   
 33 [最长公共字串](https://www.nowcoder.com/practice/f33f5adc55f444baa0e0ca87ad8a6aac?tpId=295&tqId=991150&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM66.md)    
 34 [把数字翻译成字符](https://www.nowcoder.com/practice/046a55e6cd274cffb88fc32dba695668?tpId=295&tqId=1024831&ru=/exam/oj&qru=/ta/format-top101/question-ranking&sourceUrl=%2Fexam%2Foj):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/BM69.md)    
-35 [兑换零钱](https://leetcode.cn/problems/coin-change/description/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/322.md)
+35 [兑换零钱](https://leetcode.cn/problems/coin-change/description/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/322.md)    
+36 [跳跃游戏](https://leetcode.cn/problems/jump-game-ii/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/45.md)
 ## 递归 搜索 回溯
 1 [汉诺塔](https://leetcode.cn/problems/hanota-lcci/):point_right:[题解](https://github.com/Lp700750/Algorithm-topic/blob/master/LeetCode/08.06.md)
 ## 其他
